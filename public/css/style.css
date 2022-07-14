@@ -1,0 +1,31 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    padding: 0;
+    background-color: azure;
+}
+
+.header{
+    padding: 50px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.header > h1 {
+    color: midnightblue;
+    display: block;
+    font-weight: bold;
+    font-size: 6rem;
+}
+
+#file-tree-demo{
+    padding: 80px 50px 80px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:slategrey;
+}
